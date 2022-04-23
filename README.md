@@ -17,7 +17,7 @@ Creating  hypotheses to generate actionable insights aimed at increasing the com
 
 ### validating some hypotheses
 
-![hypothesis 1:](https://github.com/wendrel815/Business_sales_insights/graph to the report/hyphotesis_1.png)
+![hypothesis 1:2018 was the year with most number of transation](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_1.png)
 
 ![hypothesis 2:Cream Cupid Hearts Coat Hanger was the most profit product of 2019](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_2.png)
 
@@ -27,4 +27,13 @@ Creating  hypotheses to generate actionable insights aimed at increasing the com
 
 ![hypothesis 7:what are the products that are most often buyers together](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_7.png)
 
-![hypothesis 8: wicht products are most cancelled ?*** Regency Cakestand 3 Tier is product the are most bean cancelled](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_8.png)
+![hypothesis 8: wicht products are most cancelled](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_8.png)
+
+### the most interesting insights about the analysis carried out
+
+1 -  Regency Cakestand 3 Tier is the product that is canceled the most, it would be interesting to understand with customers why canceled the purchase of this product
+
+2 - I checked the products that are usually bought together, it might be interesting to create promotional campaigns,
+with the set of these products by inserting one more
+
+3 - identify why such a low % of customers buy more than one product in a single transactio
