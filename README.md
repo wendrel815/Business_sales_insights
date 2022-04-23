@@ -21,6 +21,10 @@ Creating  hypotheses to generate actionable insights aimed at increasing the com
 
 ![hypothesis 2:Cream Cupid Hearts Coat Hanger was the most profit product of 2019](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_2.png)
 
-![hypothesis 3:the most part of the custumers live in United Kingdom]
-(https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_3.png)
+![hypothesis 3:the most part of the custumers live in United Kingdom](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_3.png)
 
+![hypothesis 4: what are the products that are most often buyers together](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_4.png)
+
+![hypothesis 7:what are the products that are most often buyers together](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_7.png)
+
+![hypothesis 8: wicht products are most cancelled ?*** Regency Cakestand 3 Tier is product the are most bean cancelled](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_8.png)
