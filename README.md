@@ -17,7 +17,7 @@ Creating  hypotheses to generate actionable insights aimed at increasing the com
 
 ### validating some hypotheses
 
-![hypothesis 1:](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_1.png)
+![hypothesis 1:](https://github.com/wendrel815/Business_sales_insights/graph to the report/hyphotesis_1.png)
 
 ![hypothesis 2:Cream Cupid Hearts Coat Hanger was the most profit product of 2019](https://github.com/wendrel815/Business_sales_insights/tree/main/graph%20to%20the%20report/hyphotesis_2.png)
 
